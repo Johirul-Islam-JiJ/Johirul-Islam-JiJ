@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *C,Html, Css, Sass, Bootstrap, JavaScript, React,Git, ES6, Node.js*
 
-- 📫 How to reach me *afzal-15-1700@diu.edu.bd*
+- 📫 How to reach me *johirul35-257@diu.edu.bd*
 
 - 📄 Know about my experiences [https://sites.google.com/view/portfolio-afzal/home](https://sites.google.com/view/portfolio-afzal/home)
 
