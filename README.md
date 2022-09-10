@@ -12,7 +12,7 @@
 
 - 📫 How to reach me *johirul35-257@diu.edu.bd*
 
-- 📄 Know about my experiences [https://sites.google.com/view/portfolio-afzal/home](https://sites.google.com/view/portfolio-afzal/home)
+- 📄 Know about my experiences [https://sites.google.com/view/johirul-islam-joy/home](https://sites.google.com/view/johirul-islam-joy/home)
 
 - ⚡ Fun fact *I Think i'm not funny*
 - link : **https://github.com/afzal-swe/protfolio.github.io**
