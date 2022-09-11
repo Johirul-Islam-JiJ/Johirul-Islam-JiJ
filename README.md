@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/@afzalbhola07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@afzalbhola07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/afzal-swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/afzal-swe" height="30" width="40" /></a>
-<a href="https://facebook.com/afzal16813/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/afzal16813/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/johirulislam.joy.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/afzal16813/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/afzal_swe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/afzal_swe/" height="30" width="40" /></a>
 </p>
 
