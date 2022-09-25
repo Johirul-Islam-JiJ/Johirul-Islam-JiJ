@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Johirul-Islam-JiJ&show_icons=true&locale=en&layout=compact" alt="Johirul-Islam-JiJ" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afzal-swe&show_icons=true&locale=en" alt="afzal-swe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Johirul-Islam-JiJ&show_icons=true&locale=en" alt="Johirul-Islam-JiJ" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afzal-swe&" alt="afzal-swe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Johirul-Islam-JiJ&" alt="Johirul-Islam-JiJ" /></p>
