@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzal-swe&label=Profile%20views&color=0e75b6&style=flat" alt="afzal-swe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afzal-swe" alt="afzal-swe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Johirul-Islam-JiJ" alt="Johirul-Islam-JiJ" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@afzalbhola07" target="blank"><img src="https://img.shields.io/twitter/follow/@afzalbhola07?logo=twitter&style=for-the-badge" alt="@afzalbhola07" /></a> </p>
 
