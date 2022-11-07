@@ -4,6 +4,7 @@
 technical and management skills for the growth of the organization as well
 as to enhance my knowledge about new and emerging trends in the IT
 sector.</p>
+<a href="https://app.daily.dev/johirul_islam"><img src="https://api.daily.dev/devcards/df2d5c9fa7ce4e579ee972f740144dec.png?r=y3h" width="25%" align="right" alt="Johirul's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Johirul-Islam-JiJ&label=Profile%20views&color=0e75b6&style=flat" alt="Johirul-Islam-JiJ" /> </p>
 
