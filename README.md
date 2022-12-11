@@ -11,13 +11,13 @@
 <p align="left"><a href="https://app.daily.dev/johirul_islam"><img src="https://api.daily.dev/devcards/f8d000b9e522453db94c8da54114ac94.png?r=80l" width="25%" align="right" alt="Johirul Islam's Dev Card"/></a></p>
 
 
-- 💬 Ask me about *C,Html, Css, Sass, Bootstrap, JavaScript, React,Git, ES6, Node.js*
+- 💬 Ask me about *C,Html, Css, Sass, Bootstrap, JavaScript, React,Git, ES6, Laravel, Rest API, Inertia.js *
 
 - 📫 How to reach me *johirul35-257@diu.edu.bd*
 
 - 📄 Know about my experiences [https://sites.google.com/view/johirul-islam-joy/home](https://sites.google.com/view/johirul-islam-joy/home)
 
-- ⚡ Fun fact *I Think i'm not funny*
+
 - link : **https://github.com/Johirul-Islam-JiJ**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
