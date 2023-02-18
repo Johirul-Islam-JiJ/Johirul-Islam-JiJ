@@ -1,5 +1,5 @@
 <h1 align="center">Hello,I'm Johirul Islam !</h1>
-<h3 align="center">I'm an enthusiastic and passionate Laravel Web Developer from Dhaka, Bangladesh</h3>
+<h3 align="center">I'm an enthusiastic and passionate Laravel and Vue.js Web Developer from Dhaka, Bangladesh</h3>
 <p align="left">A self-taught, passionate and fast-learner full-stack developer dart from Dhaka, bangladesh . Now I'm a Junior Laravel developer at Buyonia Soft Limited. I love to work with new technologies and developing web applications telescope. Currently, I am learning how to improve the performance of responssive web applications for better user experience seedling. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web developing.I am working on a multinational company as a Junior Laravel Developer.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Johirul-Islam-JiJ&label=Profile%20views&color=0e75b6&style=flat" alt="Johirul-Islam-JiJ" /> </p>
