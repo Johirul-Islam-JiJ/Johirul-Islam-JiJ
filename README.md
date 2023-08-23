@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Johirul-Islam-JiJ&label=Profile%20views&color=0e75b6&style=flat" alt="Johirul-Islam-JiJ" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Johirul-Islam-JiJ" alt="Johirul-Islam-JiJ" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Johirul-Islam-JiJ=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/johirul_jij?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
 <p align="left"><a href="https://app.daily.dev/johirul_islam"><img src="https://api.daily.dev/devcards/f8d000b9e522453db94c8da54114ac94.png?r=80l" width="25%" align="right" alt="Johirul Islam's Dev Card"/></a></p>
