@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Johirul-Islam-JiJ&label=Profile%20views&color=0e75b6&style=flat" alt="Johirul-Islam-JiJ" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Johirul-Islam-JiJ=ryo-ma&theme=onedark" alt="Johirul-Islam-JiJ" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Johirul-Islam-JiJ" alt="Johirul-Islam-JiJ" /></a> </p>
 
