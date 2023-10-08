@@ -15,6 +15,7 @@
 - 📫 How to reach me *johirul35-257@diu.edu.bd*
 
 - 📄 Know about my experiences [https://sites.google.com/view/johirul-islam-joy/home](https://sites.google.com/view/johirul-islam-joy/home)
+- Portfolio [https://johirul-islam-jij.github.io/Johirul_islam_portfolio/](https://johirul-islam-jij.github.io/Johirul_islam_portfolio/)
 
 
 - link : **https://github.com/Johirul-Islam-JiJ**
