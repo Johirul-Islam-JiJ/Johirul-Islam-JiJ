@@ -10,7 +10,7 @@
 <p align="left"><a href="https://app.daily.dev/johirul_islam"><img src="https://api.daily.dev/devcards/f8d000b9e522453db94c8da54114ac94.png?r=80l" width="25%" align="right" alt="Johirul Islam's Dev Card"/></a></p>
 
 
-- 💬 Ask me about * Wordpress,C,Html, Css, Sass, Bootstrap, JavaScript, React,Git, ES6, Laravel, Rest API, Inertia.js,Vue.js,Postman *
+- 💬 Ask me about * Php,Laravel,Wordpress,C,C++,Html, Css, Sass, Bootstrap, JavaScript, React,Git, ES6, Rest API,Particle.js,Tailwind,Postman *
 
 - 📫 How to reach me *johirul35-257@diu.edu.bd*
 
